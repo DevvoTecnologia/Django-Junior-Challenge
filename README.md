@@ -1,1 +1,1 @@
-# Django-J-nior-Challenge
+# Django-Junior-Challenge
